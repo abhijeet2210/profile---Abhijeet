@@ -1,0 +1,7 @@
+#emoji li::before{
+    content: "👉";
+}
+
+tr:hover{
+    background-color: rgb(227, 217, 236);
+}
